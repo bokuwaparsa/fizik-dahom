@@ -1,6 +1,6 @@
-// ─── فیزیک‌دهم · GitHub Pages deployment ──────────────────────────────────────
-// Builds a fully static export of the game and publishes it to GitHub Pages.
-// Live URL: https://bokuwaparsa.github.io/fizik-dahom/
+# ─── فیزیک‌دهم · GitHub Pages deployment ──────────────────────────────────────
+# Builds a fully static export of the game and publishes it to GitHub Pages.
+# Live URL: https://bokuwaparsa.github.io/fizik-dahom/
 name: Deploy to GitHub Pages
 
 on:
